@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="830a2042-4dc5-402d-9c0c-ca971278a6c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Genetic-Simulator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/All.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/All.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +66,8 @@
       <updated>1654364951390</updated>
       <workItem from="1654364965414" duration="576000" />
       <workItem from="1654389909529" duration="1756000" />
+      <workItem from="1654462082413" duration="6936000" />
+      <workItem from="1654528712434" duration="12658000" />
     </task>
     <servers />
   </component>
